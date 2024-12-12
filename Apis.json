@@ -1,3 +1,4 @@
 {
-  "api": "https://x-noobs-apis.onrender.com"
+  "api": "https://x-noobs-apis.onrender.com",
+  "ytdl": "https://ytdl-api-production.up.railway.app"
 }
