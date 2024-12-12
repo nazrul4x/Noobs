@@ -1,4 +1,5 @@
 {
   "api": "https://x-noobs-apis.onrender.com",
-  "ytdl": "https://ytdl-api-production.up.railway.app"
+  "ytdl": "https://ytdl-api-production.up.railway.app",
+  "csb": "https://lfjtfq-8080.csb.app"
 }
